@@ -19,7 +19,7 @@ public class PlayerListener implements ActionListener {
 		}
 		else {
 			dirChoice = ((JButton)e.getSource()).getText();
-			//t
+			//test
 		}
 
 	}
