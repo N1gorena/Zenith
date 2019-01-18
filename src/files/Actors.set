@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<entities>
+	<PC>
+		<name>Agent</name>
+		<!-- Format is x,y,z -->
+		<location>0,0,0</location>
+	</PC>
+	<Goal>
+		<name>Case</name>
+		<location>3,0,3</location>
+	</Goal>
+</entities>	
